@@ -1,4 +1,4 @@
-### Ianer-Glitch 👋
+### I'm Ianer-Glitch 
 
 <!--
 **ianer-glitch/ianer-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
